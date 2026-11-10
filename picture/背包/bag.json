@@ -1,0 +1,42 @@
+[{
+	"itemname":"盔甲",
+	"itemid":0,
+	"itemsortIndex":0,
+	"itemdesc":"古代人常穿的防身用具",
+	"itemspname":"BodyArmor_1",
+	"itemcount":1,
+	"defense":1,
+	"agility":1,
+	"atk":1
+},
+{
+	"itemname":"项链",
+	"itemid":1,
+	"itemsortIndex":0,
+	"itemdesc":"古人穿戴的饰品,非常耀眼",
+	"itemspname":"Necklace_1",
+	"itemcount":1,
+	"defense":1,
+	"agility":1,
+	"atk":1
+},
+{
+	"itemname":"红药",
+	"itemid":2,
+	"itemsortIndex":1,
+	"itemdesc":"吃了可以补充体力,恢复血量",
+	"itemspname":"potion_red",
+	"itemcount":1,
+	"hp":100,
+	"mp":0
+},
+{
+	"itemname":"蓝药",
+	"itemid":3,
+	"itemsortIndex":1,
+	"itemdesc":"吃了可以补充法力,恢复魔法",
+	"itemspname":"potion_blue",
+	"itemcount":1,
+	"hp":0,
+	"mp":100
+}]
